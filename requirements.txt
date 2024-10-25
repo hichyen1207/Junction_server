@@ -21,7 +21,7 @@ channels==2.0.2
 channels-redis==2.1.0
 chardet==3.0.4
 constantly==15.1.0
-cryptography==42.0.4
+cryptography==43.0.1
 daphne==2.0.4
 Django==3.2.24
 django-picklefield==1.0.0
